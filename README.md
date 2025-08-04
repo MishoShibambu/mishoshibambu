@@ -1,7 +1,7 @@
 ## Hi there, I am Misho Shibambu 👋
 
 🎓 Bachelor of Science graduate in Statistics & Microbiology
-💻 Skilled in R and SAS. Beginner in Python, GitHub, Gitlab and Web Development
+💻 Skilled in R, SQL and SAS. Beginner in Python, GitHub, Gitlab and Web Development
 📍 Based in South Africa, Johannesburg 
 🎯 Interested in Software Engineering, Data Analysis, and Building Practical Tech Solutions  
 🌱 Currently learning: Python, Django, Flask, HTML & CSS  
