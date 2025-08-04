@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I am Misho Shibambu 👋
 
-<!--
-**MishoShibambu/mishoshibambu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Science graduate in Statistics & Microbiology
+💻 Skilled in R and SAS. Beginner in Python, GitHub, Gitlab and Web Development
+📍 Based in South Africa, Johannesburg 
+🎯 Interested in Software Engineering, Data Analysis, and Building Practical Tech Solutions  
+🌱 Currently learning: Python, Django, Flask, HTML & CSS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I am passionate about using technology to solve real-life problems.  
+Right now, I am building my programming skills and exploring the tech space with a focus on practical, beginner-friendly projects.
+
+---
+
+## 📬 Let's Connect
+- LinkedIn: www.linkedin.com/in/mishoshibambu
+- Email: mishoshibambu2@gmail.com
+
